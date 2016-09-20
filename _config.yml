@@ -52,3 +52,4 @@ favicon_img_path: "imgs/favicon.ico"
 # Build settings
 markdown: kramdown
 permalink: pretty
+exclude: ['README.md', 'LICENSE']
